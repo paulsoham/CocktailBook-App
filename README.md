@@ -1,4 +1,4 @@
-# 🍹 Cocktail Book App Assignment 📱
+# 🍹 Cocktail Book App 📱
 
 The contents of this repository consists of starter project as well as this readme file containing instructions. The main goal is to expand and/or refactor the starter project to develop the Cocktails Book app. This assignment consists of required tasks and optional (bonus) tasks. After finishing the assignment, the resulting project should be compressed into a `zip` archive and sent back to the recruiter.
 
@@ -137,6 +137,6 @@ By initializing the object using `withFailure: .count(3)`, all the calls to the 
 
 **Free to add additional features/design**. There is no clear goal for this task, it is a way to enrich the app by any means you think are interesting. Sky is the limit :)
 
-## 🤓 Disclaimer
+## Disclaimer
 
 The texts and images are taken from multiple sources. They should not be shared with others or used in commercial products, they are only used to serve the assignment as temporary assets, nothing more.
