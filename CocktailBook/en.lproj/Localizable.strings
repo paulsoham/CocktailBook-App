@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  CocktailBook
+  Created by SOHAM PAUL on 14/12/24.
+*/
+
+
+"Unknown ID" = "Unknown ID";
+"Unknown Cocktail" = "Unknown Cocktail";
+"Unknown Type" = "Unknown Type";
+"No description available" = "No description available";
+"No long description available" = "No long description available";
+"alcoholic" = "alcoholic";
+"non-alcoholic" = "non-alcoholic";
+"Filter" = "Filter";
+"All" = "All";
+"Alcoholic" = "Alcoholic";
+"Non-Alcoholic" = "Non-Alcoholic";
+"Retry" = "Retry";
+"All Cocktails" = "All Cocktails";
+"Alcoholic Cocktails" = "Alcoholic Cocktails";
+"Non-Alcoholic Cocktails" = "Non-Alcoholic Cocktails";
+"Ingredients" = "Ingredients";
+"No ingredients available" = "No ingredients available";
+
+
